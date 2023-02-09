@@ -36,7 +36,7 @@ const handleClickScroll2 = () => {
   return (
     <div className='row min-w-full'>
       <Head>
-        <title>HandsomeAnts</title>
+        <title>HandsomeAnt</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
     
