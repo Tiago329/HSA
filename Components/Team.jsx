@@ -19,7 +19,7 @@ const Team = () => {
             </div>
             <div class="space-y-4 text-center">
                 <img class="w-64 h-64 mx-auto object-cover rounded-xl md:w-48 md:h-64 lg:w-64 lg:h-80" 
-                    src="/pedroArtist.png" alt="man" loading="lazy" width="1000" height="667"/>
+                    src="/PedroArtist.png" alt="man" loading="lazy" width="1000" height="667"/>
                 <div>
                     <h4 class="text-2xl">Pedro Ferreira</h4>
                     <span class="block text-sm text-gray-500">Chief Technical Artist</span>
