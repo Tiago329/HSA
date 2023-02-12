@@ -22,6 +22,7 @@ const BackgroundPage = () => (
       as a Background
     </p>
   </div>
+  
 )
 
 export default BackgroundPage
