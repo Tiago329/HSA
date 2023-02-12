@@ -5,7 +5,7 @@ const Team = () => {
   return (
 <div class="py-20 bg-pink-200">
     <div class="container mx-auto px-6 md:px-12 xl:px-32">
-        <div class="mb-16 text-center">
+        <div class="mb-15 text-center">
             <h2 class="mb-4 text-center text-2xl text-gray-900 font-bold md:text-4xl">Meet the team</h2>
         </div>
         <div class="grid gap-12 items-center md:grid-cols-3">
